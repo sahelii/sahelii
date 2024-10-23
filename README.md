@@ -1,9 +1,10 @@
-![Header](https://your-banner-link.com)
+## Hi there 👋 I'm Saheli Mahapatra
 
-<h2 align="center">Hi there! 👋 I'm Saheli Mahapatra</h2>
-<p align="center">
-  I'm a <strong>full-stack developer</strong> with a passion for creating amazing web and mobile experiences.
-</p>
+- 🔭 I’m currently working on full-stack projects
+- 🌱 I’m passionate about learning new technologies, especially in web and mobile app development.
+- 👯 I’m looking to collaborate on MERN stack.
+- 💬 Ask me about JavaScript, Web Development, and Databases
+- 📫 How to reach me: [Email](mailto:saheliofficial22@gmail.com)
 
 ---
 
@@ -28,30 +29,11 @@
 
 ---
 
-## 🌱 What I'm Learning Now
-- 📘 Diving into **React Native** for mobile development
-- 🐳 Exploring **Docker** for containerization
-
----
-
 ## 📊 GitHub Stats
 
 ![Saheli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahelii&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahelii&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahelii&theme=react-dark)
-
----
-
-## 🔥 Featured Projects
-[![Project Title](https://github.com/sahelii/project-repo-name/raw/main/project-screenshot.png)](https://github.com/sahelii/project-repo-name)
-<!-- You can add links and images for your top projects here -->
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=sahelii)
 
 ---
 
@@ -59,7 +41,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saheli-mahapatra-83b759202/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
----
-
-<!-- Optionally, you can add more interactive features or images as you like -->
