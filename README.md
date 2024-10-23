@@ -4,7 +4,7 @@
 - 🌱 I’m passionate about learning new technologies, especially in web and mobile app development.
 - 👯 I’m looking to collaborate on MERN stack.
 - 💬 Ask me about JavaScript, Web Development, and Databases
-- 📫 How to reach me: [Email](mailto:saheliofficial22@gmail.com)
+- 📫 Reach out to me: saheliofficial22@gmail.com
 
 ---
 
